@@ -85,7 +85,7 @@ IEEE Published research comparing NLP architectures on HateXplain dataset. RoBER
 
 Comprehensive comparison of 6 CNN architectures (VGG16/19, MobileNetV2, InceptionV3, Xception, DenseNet201) for facemask detection with performance analysis.
 
-### 🌌 [Gesture-Controlled Solar System Explorer](https://github.com/Mounir62/Solar-System-Viusalization)
+### 🌌 [Gesture-Controlled Solar System Explorer](https://github.com/Mounir62/Solar-System-Visualization)
 **Unity | C# | MediaPipe | TUIO**
 
 AR educational application featuring gesture-based navigation, face recognition authentication, and interactive astronomy learning.
